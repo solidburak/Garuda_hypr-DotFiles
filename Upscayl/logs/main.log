@@ -1,0 +1,526 @@
+[2024-10-04 15:52:42.065] [info]  🚀 UPSCAYL EXEC PATH:  /opt/upscayl/bin/upscayl-bin
+[2024-10-04 15:52:42.072] [info]  🚀 MODELS PATH:  /opt/upscayl/models
+[2024-10-04 15:52:46.756] [info]  ⚙️ Setting saveImageAs to png
+[2024-10-04 15:52:46.757] [info]  🔀 Setting model to realesrgan-x4plus
+[2024-10-04 15:52:46.758] [info]  ⚙️ Setting gpuId to empty string
+[2024-10-04 15:52:46.759] [info]  🔀 Setting model to null
+[2024-10-04 15:52:46.770] [info]  🔀 Setting model to realesrgan-x4plus
+[2024-10-04 15:52:55.251] [info]  🔄 Resetting image paths
+[2024-10-04 15:54:42.771] [info]  🖼️ Updating Image Path:  /home/burak/Resimler/Walpaper/Skyline.jpg
+[2024-10-04 15:54:42.774] [info]  📄 Selected File Path:  /home/burak/Resimler/Walpaper/Skyline.jpg
+[2024-10-04 15:54:42.782] [info]  🎒 BACKEND REPORTED:  🖼️ Updating Image Path:  /home/burak/Resimler/Walpaper/Skyline.jpg
+[2024-10-04 15:54:42.784] [info]  🖼 Selected Image Path:  /home/burak/Resimler/Walpaper/Skyline.jpg
+[2024-10-04 15:54:42.788] [info]  📁 Selected Image Directory:  /home/burak/Resimler/Walpaper
+[2024-10-04 15:54:42.798] [info]  🖼 imagePath:  /home/burak/Resimler/Walpaper/Skyline.jpg
+[2024-10-04 15:54:42.799] [info]  🔤 Extension:  jpg
+[2024-10-04 15:54:42.811] [info]  🎒 BACKEND REPORTED:  📄 Selected File Path:  /home/burak/Resimler/Walpaper/Skyline.jpg
+[2024-10-04 15:54:55.149] [info]  🔄 Resetting Upscaled Image Path
+[2024-10-04 15:54:55.151] [info]  ✅ Upscayl Variables:  {"model":"realesrgan-x4plus","gpuId":null,"saveImageAs":"png","inputDir":"/home/burak/Resimler/Walpaper","fileNameWithExt":"Skyline.jpg","outputDir":"/home/burak/Resimler/Walpaper","outFile":"/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png","fileName":"Skyline","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2024-10-04 15:54:55.152] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/burak/Resimler/Walpaper/Skyline.jpg',
+  '-o',
+  '/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png',
+  '-m',
+  '/opt/upscayl/models',
+  '-n',
+  'realesrgan-x4plus',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2024-10-04 15:54:55.166] [info]  👶 Updating Child Processes:  {"binary":"/opt/upscayl/bin/upscayl-bin","args":["/opt/upscayl/bin/upscayl-bin","-i","/home/burak/Resimler/Walpaper/Skyline.jpg","-o","/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png","-m","/opt/upscayl/models","-n","realesrgan-x4plus","-f","png","-c","0"]}
+[2024-10-04 15:54:55.166] [info]  🛑 Updating Stopped:  false
+[2024-10-04 15:54:55.167] [info]  🏁 UPSCAYL
+[2024-10-04 15:54:55.168] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2024-10-04 15:54:55.183] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"realesrgan-x4plus","gpuId":null,"saveImageAs":"png","inputDir":"/home/burak/Resimler/Walpaper","fileNameWithExt":"Skyline.jpg","outputDir":"/home/burak/Resimler/Walpaper","outFile":"/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png","fileName":"Skyline","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2024-10-04 15:54:55.187] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/burak/Resimler/Walpaper/Skyline.jpg,-o,/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png,-m,/opt/upscayl/models,-n,realesrgan-x4plus,-f,png,-c,0
+[2024-10-04 15:54:55.187] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/opt/upscayl/bin/upscayl-bin","args":["/opt/upscayl/bin/upscayl-bin","-i","/home/burak/Resimler/Walpaper/Skyline.jpg","-o","/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png","-m","/opt/upscayl/models","-n","realesrgan-x4plus","-f","png","-c","0"]}
+[2024-10-04 15:54:55.188] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2024-10-04 15:54:55.188] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2024-10-04 15:54:55.188] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Detected scale x4
+✨ Using the default scale x4
+
+[2024-10-04 15:54:56.537] [info]  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2024-10-04 15:54:56.539] [info]  🎒 BACKEND REPORTED:  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2024-10-04 15:54:56.542] [info]  🚧 UPSCAYL_PROGRESS:  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2024-10-04 15:55:19.308] [info]  0.00%
+
+[2024-10-04 15:55:19.314] [info]  🎒 BACKEND REPORTED:  0.00%
+
+[2024-10-04 15:55:19.346] [info]  🚧 UPSCAYL_PROGRESS:  0.00%
+
+[2024-10-04 15:55:37.704] [info]  3.57%
+
+[2024-10-04 15:55:37.709] [info]  🎒 BACKEND REPORTED:  3.57%
+
+[2024-10-04 15:55:37.736] [info]  🚧 UPSCAYL_PROGRESS:  3.57%
+
+[2024-10-04 15:55:54.131] [info]  7.14%
+
+[2024-10-04 15:55:54.134] [info]  🎒 BACKEND REPORTED:  7.14%
+
+[2024-10-04 15:55:54.159] [info]  🚧 UPSCAYL_PROGRESS:  7.14%
+
+[2024-10-04 15:56:03.861] [info]  10.71%
+
+[2024-10-04 15:56:03.866] [info]  🎒 BACKEND REPORTED:  10.71%
+
+[2024-10-04 15:56:03.888] [info]  🚧 UPSCAYL_PROGRESS:  10.71%
+
+[2024-10-04 15:56:19.771] [info]  14.29%
+
+[2024-10-04 15:56:19.774] [info]  🎒 BACKEND REPORTED:  14.29%
+
+[2024-10-04 15:56:19.798] [info]  🚧 UPSCAYL_PROGRESS:  14.29%
+
+[2024-10-04 15:56:33.715] [info]  17.86%
+
+[2024-10-04 15:56:33.717] [info]  🎒 BACKEND REPORTED:  17.86%
+
+[2024-10-04 15:56:33.729] [info]  🚧 UPSCAYL_PROGRESS:  17.86%
+
+[2024-10-04 15:56:47.466] [info]  21.43%
+
+[2024-10-04 15:56:47.469] [info]  🎒 BACKEND REPORTED:  21.43%
+
+[2024-10-04 15:56:47.497] [info]  🚧 UPSCAYL_PROGRESS:  21.43%
+
+[2024-10-04 15:56:55.740] [info]  25.00%
+
+[2024-10-04 15:56:55.742] [info]  🎒 BACKEND REPORTED:  25.00%
+
+[2024-10-04 15:56:55.749] [info]  🚧 UPSCAYL_PROGRESS:  25.00%
+
+[2024-10-04 15:57:09.572] [info]  28.57%
+
+[2024-10-04 15:57:09.574] [info]  🎒 BACKEND REPORTED:  28.57%
+
+[2024-10-04 15:57:09.597] [info]  🚧 UPSCAYL_PROGRESS:  28.57%
+
+[2024-10-04 15:57:23.432] [info]  32.14%
+
+[2024-10-04 15:57:23.435] [info]  🎒 BACKEND REPORTED:  32.14%
+
+[2024-10-04 15:57:23.459] [info]  🚧 UPSCAYL_PROGRESS:  32.14%
+
+[2024-10-04 15:57:37.392] [info]  35.71%
+
+[2024-10-04 15:57:37.394] [info]  🎒 BACKEND REPORTED:  35.71%
+
+[2024-10-04 15:57:37.401] [info]  🚧 UPSCAYL_PROGRESS:  35.71%
+
+[2024-10-04 15:57:45.244] [info]  39.29%
+
+[2024-10-04 15:57:45.246] [info]  🎒 BACKEND REPORTED:  39.29%
+
+[2024-10-04 15:57:45.257] [info]  🚧 UPSCAYL_PROGRESS:  39.29%
+
+[2024-10-04 15:58:00.501] [info]  42.86%
+
+[2024-10-04 15:58:00.504] [info]  🎒 BACKEND REPORTED:  42.86%
+
+[2024-10-04 15:58:00.528] [info]  🚧 UPSCAYL_PROGRESS:  42.86%
+
+[2024-10-04 15:58:15.197] [info]  46.43%
+
+[2024-10-04 15:58:15.200] [info]  🎒 BACKEND REPORTED:  46.43%
+
+[2024-10-04 15:58:15.229] [info]  🚧 UPSCAYL_PROGRESS:  46.43%
+
+[2024-10-04 15:58:29.218] [info]  50.00%
+
+[2024-10-04 15:58:29.221] [info]  🎒 BACKEND REPORTED:  50.00%
+
+[2024-10-04 15:58:29.246] [info]  🚧 UPSCAYL_PROGRESS:  50.00%
+
+[2024-10-04 15:58:36.728] [info]  53.57%
+
+[2024-10-04 15:58:36.740] [info]  🎒 BACKEND REPORTED:  53.57%
+
+[2024-10-04 15:58:36.762] [info]  🚧 UPSCAYL_PROGRESS:  53.57%
+
+[2024-10-04 15:58:50.497] [info]  57.14%
+
+[2024-10-04 15:58:50.500] [info]  🎒 BACKEND REPORTED:  57.14%
+
+[2024-10-04 15:58:50.522] [info]  🚧 UPSCAYL_PROGRESS:  57.14%
+
+[2024-10-04 15:59:03.679] [info]  60.71%
+
+[2024-10-04 15:59:03.680] [info]  🎒 BACKEND REPORTED:  60.71%
+
+[2024-10-04 15:59:03.693] [info]  🚧 UPSCAYL_PROGRESS:  60.71%
+
+[2024-10-04 15:59:16.782] [info]  64.29%
+
+[2024-10-04 15:59:16.785] [info]  🎒 BACKEND REPORTED:  64.29%
+
+[2024-10-04 15:59:16.813] [info]  🚧 UPSCAYL_PROGRESS:  64.29%
+
+[2024-10-04 15:59:23.951] [info]  67.86%
+
+[2024-10-04 15:59:23.954] [info]  🎒 BACKEND REPORTED:  67.86%
+
+[2024-10-04 15:59:23.979] [info]  🚧 UPSCAYL_PROGRESS:  67.86%
+
+[2024-10-04 15:59:37.076] [info]  71.43%
+
+[2024-10-04 15:59:37.079] [info]  🎒 BACKEND REPORTED:  71.43%
+
+[2024-10-04 15:59:37.101] [info]  🚧 UPSCAYL_PROGRESS:  71.43%
+
+[2024-10-04 15:59:50.194] [info]  75.00%
+
+[2024-10-04 15:59:50.197] [info]  🎒 BACKEND REPORTED:  75.00%
+
+[2024-10-04 15:59:50.219] [info]  🚧 UPSCAYL_PROGRESS:  75.00%
+
+[2024-10-04 16:00:03.253] [info]  78.57%
+
+[2024-10-04 16:00:03.254] [info]  🎒 BACKEND REPORTED:  78.57%
+
+[2024-10-04 16:00:03.261] [info]  🚧 UPSCAYL_PROGRESS:  78.57%
+
+[2024-10-04 16:00:10.876] [info]  82.14%
+
+[2024-10-04 16:00:10.879] [info]  🎒 BACKEND REPORTED:  82.14%
+
+[2024-10-04 16:00:10.906] [info]  🚧 UPSCAYL_PROGRESS:  82.14%
+
+[2024-10-04 16:00:15.033] [info]  85.71%
+
+[2024-10-04 16:00:15.037] [info]  🎒 BACKEND REPORTED:  85.71%
+
+[2024-10-04 16:00:15.063] [info]  🚧 UPSCAYL_PROGRESS:  85.71%
+
+[2024-10-04 16:00:19.037] [info]  89.29%
+
+[2024-10-04 16:00:19.040] [info]  🎒 BACKEND REPORTED:  89.29%
+
+[2024-10-04 16:00:19.059] [info]  🚧 UPSCAYL_PROGRESS:  89.29%
+
+[2024-10-04 16:00:23.374] [info]  92.86%
+
+[2024-10-04 16:00:23.376] [info]  🎒 BACKEND REPORTED:  92.86%
+
+[2024-10-04 16:00:23.380] [info]  🚧 UPSCAYL_PROGRESS:  92.86%
+
+[2024-10-04 16:00:25.553] [info]  96.43%
+
+[2024-10-04 16:00:25.554] [info]  🎒 BACKEND REPORTED:  96.43%
+
+[2024-10-04 16:00:25.556] [info]  🚧 UPSCAYL_PROGRESS:  96.43%
+
+[2024-10-04 16:00:28.659] [info]  100.00%
+
+🙌 Upscayled Successfully!
+
+[2024-10-04 16:00:28.660] [info]  🎒 BACKEND REPORTED:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2024-10-04 16:00:28.662] [info]  🚧 UPSCAYL_PROGRESS:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2024-10-04 16:00:29.002] [info]  💯 Done upscaling
+[2024-10-04 16:00:29.008] [info]  🎒 BACKEND REPORTED:  💯 Done upscaling
+[2024-10-04 16:00:29.008] [info]  upscaledImagePath:  /home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png
+[2024-10-04 16:00:29.009] [info]  💯 UPSCAYL_DONE:  /home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png
+[2024-10-04 16:01:50.061] [info]  🔀 Model changed:  remacri
+[2024-10-04 16:01:50.069] [info]  🔀 Setting model to remacri
+[2024-10-04 16:01:53.436] [info]  🔄 Resetting Upscaled Image Path
+[2024-10-04 16:01:53.438] [info]  ✅ Upscayl Variables:  {"model":"remacri","gpuId":null,"saveImageAs":"png","inputDir":"/home/burak/Resimler/Walpaper","fileNameWithExt":"Skyline.jpg","outputDir":"/home/burak/Resimler/Walpaper","outFile":"/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_remacri.png","fileName":"Skyline","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2024-10-04 16:01:53.439] [info]  📢 Upscayl Command:  [
+  '-i',
+  '/home/burak/Resimler/Walpaper/Skyline.jpg',
+  '-o',
+  '/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_remacri.png',
+  '-m',
+  '/opt/upscayl/models',
+  '-n',
+  'remacri',
+  '-f',
+  'png',
+  '-c',
+  '0'
+]
+[2024-10-04 16:01:53.463] [info]  👶 Updating Child Processes:  {"binary":"/opt/upscayl/bin/upscayl-bin","args":["/opt/upscayl/bin/upscayl-bin","-i","/home/burak/Resimler/Walpaper/Skyline.jpg","-o","/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png","-m","/opt/upscayl/models","-n","realesrgan-x4plus","-f","png","-c","0"]}
+[2024-10-04 16:01:53.464] [info]  🛑 Updating Stopped:  false
+[2024-10-04 16:01:53.467] [info]  🏁 UPSCAYL
+[2024-10-04 16:01:53.469] [info]  🚀 Starting Upscayl - Copyright © 2024
+✨ Using the default scale x4
+
+[2024-10-04 16:01:53.471] [info]  🎒 BACKEND REPORTED:  ✅ Upscayl Variables:  {"model":"remacri","gpuId":null,"saveImageAs":"png","inputDir":"/home/burak/Resimler/Walpaper","fileNameWithExt":"Skyline.jpg","outputDir":"/home/burak/Resimler/Walpaper","outFile":"/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_remacri.png","fileName":"Skyline","scale":"4","compression":"0","customWidth":"","useCustomWidth":false,"tileSize":null}
+[2024-10-04 16:01:53.475] [info]  🎒 BACKEND REPORTED:  📢 Upscayl Command:  -i,/home/burak/Resimler/Walpaper/Skyline.jpg,-o,/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_remacri.png,-m,/opt/upscayl/models,-n,remacri,-f,png,-c,0
+[2024-10-04 16:01:53.476] [info]  🎒 BACKEND REPORTED:  👶 Updating Child Processes:  {"binary":"/opt/upscayl/bin/upscayl-bin","args":["/opt/upscayl/bin/upscayl-bin","-i","/home/burak/Resimler/Walpaper/Skyline.jpg","-o","/home/burak/Resimler/Walpaper/Skyline_upscayl_4x_realesrgan-x4plus.png","-m","/opt/upscayl/models","-n","realesrgan-x4plus","-f","png","-c","0"]}
+[2024-10-04 16:01:53.476] [info]  🎒 BACKEND REPORTED:  🛑 Updating Stopped:  false
+[2024-10-04 16:01:53.477] [info]  🎒 BACKEND REPORTED:  🚀 Starting Upscayl - Copyright © 2024
+✨ Using the default scale x4
+
+[2024-10-04 16:01:53.477] [info]  🚧 UPSCAYL_PROGRESS:  🚀 Starting Upscayl - Copyright © 2024
+✨ Using the default scale x4
+
+[2024-10-04 16:01:54.838] [info]  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  bugsbn1=0  bugbilz=45  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2024-10-04 16:01:54.839] [info]  🎒 BACKEND REPORTED:  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  bugsbn1=0  bugbilz=45  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2024-10-04 16:01:54.841] [info]  🚧 UPSCAYL_PROGRESS:  [0 Intel(R) UHD Graphics 630 (CFL GT2)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[0 Intel(R) UHD Graphics 630 (CFL GT2)]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  queueC=0[1]  queueG=0[1]  queueT=0[1]
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  bugsbn1=0  bugbilz=45  bugcopc=0  bugihfa=0
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1
+[1 llvmpipe (LLVM 18.1.8, 256 bits)]  subgroup=8  basic=1  vote=1  ballot=1  shuffle=1
+
+[2024-10-04 16:01:59.207] [info]  ⚙️ Getting saveImageAs from localStorage:  png
+[2024-10-04 16:01:59.212] [info]  ⚙️ Getting model from localStorage:  {"label":"General Photo (Remacri)","value":"remacri"}
+[2024-10-04 16:01:59.213] [info]  ⚙️ Setting gpuId to empty string
+[2024-10-04 16:02:14.959] [info]  ⚙️ Getting saveImageAs from localStorage:  png
+[2024-10-04 16:02:14.960] [info]  ⚙️ Getting model from localStorage:  {"label":"General Photo (Remacri)","value":"remacri"}
+[2024-10-04 16:02:14.960] [info]  ⚙️ Setting gpuId to empty string
+[2024-10-04 16:02:14.961] [info]  🔀 Setting model to null
+[2024-10-04 16:02:14.978] [info]  🔀 Setting model to remacri
+[2024-10-04 16:02:21.669] [info]  0.00%
+
+[2024-10-04 16:02:21.673] [info]  🎒 BACKEND REPORTED:  0.00%
+
+[2024-10-04 16:02:21.691] [info]  🚧 UPSCAYL_PROGRESS:  0.00%
+
+[2024-10-04 16:02:41.316] [info]  3.57%
+
+[2024-10-04 16:02:41.320] [info]  🎒 BACKEND REPORTED:  3.57%
+
+[2024-10-04 16:02:41.346] [info]  🚧 UPSCAYL_PROGRESS:  3.57%
+
+[2024-10-04 16:02:58.235] [info]  7.14%
+
+[2024-10-04 16:02:58.238] [info]  🎒 BACKEND REPORTED:  7.14%
+
+[2024-10-04 16:02:58.259] [info]  🚧 UPSCAYL_PROGRESS:  7.14%
+
+[2024-10-04 16:03:05.875] [info]  10.71%
+
+[2024-10-04 16:03:05.877] [info]  🎒 BACKEND REPORTED:  10.71%
+
+[2024-10-04 16:03:05.885] [info]  🚧 UPSCAYL_PROGRESS:  10.71%
+
+[2024-10-04 16:03:20.666] [info]  14.29%
+
+[2024-10-04 16:03:20.670] [info]  🎒 BACKEND REPORTED:  14.29%
+
+[2024-10-04 16:03:20.698] [info]  🚧 UPSCAYL_PROGRESS:  14.29%
+
+[2024-10-04 16:03:34.037] [info]  17.86%
+
+[2024-10-04 16:03:34.040] [info]  🎒 BACKEND REPORTED:  17.86%
+
+[2024-10-04 16:03:34.070] [info]  🚧 UPSCAYL_PROGRESS:  17.86%
+
+[2024-10-04 16:03:48.062] [info]  21.43%
+
+[2024-10-04 16:03:48.065] [info]  🎒 BACKEND REPORTED:  21.43%
+
+[2024-10-04 16:03:48.086] [info]  🚧 UPSCAYL_PROGRESS:  21.43%
+
+[2024-10-04 16:03:56.283] [info]  25.00%
+
+[2024-10-04 16:03:56.287] [info]  🎒 BACKEND REPORTED:  25.00%
+
+[2024-10-04 16:03:56.312] [info]  🚧 UPSCAYL_PROGRESS:  25.00%
+
+[2024-10-04 16:04:12.100] [info]  28.57%
+
+[2024-10-04 16:04:12.103] [info]  🎒 BACKEND REPORTED:  28.57%
+
+[2024-10-04 16:04:12.125] [info]  🚧 UPSCAYL_PROGRESS:  28.57%
+
+[2024-10-04 16:04:29.160] [info]  32.14%
+
+[2024-10-04 16:04:29.165] [info]  🎒 BACKEND REPORTED:  32.14%
+
+[2024-10-04 16:04:29.214] [info]  🚧 UPSCAYL_PROGRESS:  32.14%
+
+[2024-10-04 16:04:45.281] [info]  35.71%
+
+[2024-10-04 16:04:45.283] [info]  🎒 BACKEND REPORTED:  35.71%
+
+[2024-10-04 16:04:45.295] [info]  🚧 UPSCAYL_PROGRESS:  35.71%
+
+[2024-10-04 16:04:52.682] [info]  39.29%
+
+[2024-10-04 16:04:52.685] [info]  🎒 BACKEND REPORTED:  39.29%
+
+[2024-10-04 16:04:52.712] [info]  🚧 UPSCAYL_PROGRESS:  39.29%
+
+[2024-10-04 16:05:06.683] [info]  42.86%
+
+[2024-10-04 16:05:06.685] [info]  🎒 BACKEND REPORTED:  42.86%
+
+[2024-10-04 16:05:06.697] [info]  🚧 UPSCAYL_PROGRESS:  42.86%
+
+[2024-10-04 16:05:20.261] [info]  46.43%
+
+[2024-10-04 16:05:20.264] [info]  🎒 BACKEND REPORTED:  46.43%
+
+[2024-10-04 16:05:20.286] [info]  🚧 UPSCAYL_PROGRESS:  46.43%
+
+[2024-10-04 16:05:34.009] [info]  50.00%
+
+[2024-10-04 16:05:34.013] [info]  🎒 BACKEND REPORTED:  50.00%
+
+[2024-10-04 16:05:34.032] [info]  🚧 UPSCAYL_PROGRESS:  50.00%
+
+[2024-10-04 16:05:42.750] [info]  53.57%
+
+[2024-10-04 16:05:42.752] [info]  🎒 BACKEND REPORTED:  53.57%
+
+[2024-10-04 16:05:42.761] [info]  🚧 UPSCAYL_PROGRESS:  53.57%
+
+[2024-10-04 16:05:58.886] [info]  57.14%
+
+[2024-10-04 16:05:58.890] [info]  🎒 BACKEND REPORTED:  57.14%
+
+[2024-10-04 16:05:58.910] [info]  🚧 UPSCAYL_PROGRESS:  57.14%
+
+[2024-10-04 16:06:13.206] [info]  60.71%
+
+[2024-10-04 16:06:13.209] [info]  🎒 BACKEND REPORTED:  60.71%
+
+[2024-10-04 16:06:13.232] [info]  🚧 UPSCAYL_PROGRESS:  60.71%
+
+[2024-10-04 16:06:27.622] [info]  64.29%
+
+[2024-10-04 16:06:27.625] [info]  🎒 BACKEND REPORTED:  64.29%
+
+[2024-10-04 16:06:27.640] [info]  🚧 UPSCAYL_PROGRESS:  64.29%
+
+[2024-10-04 16:06:34.825] [info]  67.86%
+
+[2024-10-04 16:06:34.827] [info]  🎒 BACKEND REPORTED:  67.86%
+
+[2024-10-04 16:06:34.848] [info]  🚧 UPSCAYL_PROGRESS:  67.86%
+
+[2024-10-04 16:06:48.257] [info]  71.43%
+
+[2024-10-04 16:06:48.260] [info]  🎒 BACKEND REPORTED:  71.43%
+
+[2024-10-04 16:06:48.284] [info]  🚧 UPSCAYL_PROGRESS:  71.43%
+
+[2024-10-04 16:07:01.879] [info]  75.00%
+
+[2024-10-04 16:07:01.882] [info]  🎒 BACKEND REPORTED:  75.00%
+
+[2024-10-04 16:07:01.906] [info]  🚧 UPSCAYL_PROGRESS:  75.00%
+
+[2024-10-04 16:07:15.060] [info]  78.57%
+
+[2024-10-04 16:07:15.063] [info]  🎒 BACKEND REPORTED:  78.57%
+
+[2024-10-04 16:07:15.085] [info]  🚧 UPSCAYL_PROGRESS:  78.57%
+
+[2024-10-04 16:07:22.118] [info]  82.14%
+
+[2024-10-04 16:07:22.120] [info]  🎒 BACKEND REPORTED:  82.14%
+
+[2024-10-04 16:07:22.125] [info]  🚧 UPSCAYL_PROGRESS:  82.14%
+
+[2024-10-04 16:07:26.265] [info]  85.71%
+
+[2024-10-04 16:07:26.268] [info]  🎒 BACKEND REPORTED:  85.71%
+
+[2024-10-04 16:07:26.291] [info]  🚧 UPSCAYL_PROGRESS:  85.71%
+
+[2024-10-04 16:07:30.494] [info]  89.29%
+
+[2024-10-04 16:07:30.497] [info]  🎒 BACKEND REPORTED:  89.29%
+
+[2024-10-04 16:07:30.516] [info]  🚧 UPSCAYL_PROGRESS:  89.29%
+
+[2024-10-04 16:07:34.413] [info]  92.86%
+
+[2024-10-04 16:07:34.416] [info]  🎒 BACKEND REPORTED:  92.86%
+
+[2024-10-04 16:07:34.441] [info]  🚧 UPSCAYL_PROGRESS:  92.86%
+
+[2024-10-04 16:07:36.509] [info]  96.43%
+
+[2024-10-04 16:07:36.512] [info]  🎒 BACKEND REPORTED:  96.43%
+
+[2024-10-04 16:07:36.518] [info]  🚧 UPSCAYL_PROGRESS:  96.43%
+
+[2024-10-04 16:07:39.460] [info]  100.00%
+
+🙌 Upscayled Successfully!
+
+[2024-10-04 16:07:39.462] [info]  🎒 BACKEND REPORTED:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2024-10-04 16:07:39.467] [info]  🚧 UPSCAYL_PROGRESS:  100.00%
+
+🙌 Upscayled Successfully!
+
+[2024-10-04 16:07:39.662] [info]  💯 Done upscaling
+[2024-10-04 16:07:39.664] [info]  🎒 BACKEND REPORTED:  💯 Done upscaling
+[2024-10-04 16:07:39.665] [info]  upscaledImagePath:  /home/burak/Resimler/Walpaper/Skyline_upscayl_4x_remacri.png
+[2024-10-04 16:07:39.665] [info]  💯 UPSCAYL_DONE:  /home/burak/Resimler/Walpaper/Skyline_upscayl_4x_remacri.png
+[2024-10-04 16:08:35.978] [info]  ⚙️ Getting saveImageAs from localStorage:  png
+[2024-10-04 16:08:35.979] [info]  ⚙️ Getting model from localStorage:  {"label":"General Photo (Remacri)","value":"remacri"}
+[2024-10-04 16:08:35.979] [info]  ⚙️ Setting gpuId to empty string
+[2024-10-04 16:08:41.542] [info]  ⚙️ Getting saveImageAs from localStorage:  png
+[2024-10-04 16:08:41.543] [info]  ⚙️ Getting model from localStorage:  {"label":"General Photo (Remacri)","value":"remacri"}
+[2024-10-04 16:08:41.543] [info]  ⚙️ Setting gpuId to empty string
+[2024-10-04 16:08:41.543] [info]  🔀 Setting model to null
+[2024-10-04 16:08:41.550] [info]  🔀 Setting model to remacri
+[2024-10-04 16:08:43.276] [info]  ⚙️ Getting saveImageAs from localStorage:  png
+[2024-10-04 16:08:43.277] [info]  ⚙️ Getting model from localStorage:  {"label":"General Photo (Remacri)","value":"remacri"}
+[2024-10-04 16:08:43.277] [info]  ⚙️ Setting gpuId to empty string

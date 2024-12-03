@@ -1,0 +1,34 @@
+[Default Applications]
+x-scheme-handler/mailto=userapp-Thunderbird-6S3IQ2.desktop
+message/rfc822=userapp-Thunderbird-6S3IQ2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-6S3IQ2.desktop
+x-scheme-handler/http=zen-alpha.desktop
+x-scheme-handler/https=zen-alpha.desktop
+x-scheme-handler/chrome=zen-alpha.desktop
+text/html=zen-alpha.desktop
+application/x-extension-htm=zen-alpha.desktop
+application/x-extension-html=zen-alpha.desktop
+application/x-extension-shtml=zen-alpha.desktop
+application/xhtml+xml=zen-alpha.desktop
+application/x-extension-xhtml=zen-alpha.desktop
+application/x-extension-xht=zen-alpha.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-6S3IQ2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-6S3IQ2.desktop;
+image/jpeg=org.gnome.eog.desktop;swappy.desktop;nvim.desktop;
+image/png=org.gnome.eog.desktop;
+text/html=firedragon.desktop;zen-alpha.desktop;
+application/pdf=org.gnome.Evince.desktop;
+application/zip=org.gnome.FileRoller.desktop;xarchiver.desktop;
+x-scheme-handler/http=zen-alpha.desktop;
+x-scheme-handler/https=zen-alpha.desktop;
+x-scheme-handler/chrome=zen-alpha.desktop;
+application/x-extension-htm=zen-alpha.desktop;
+application/x-extension-html=zen-alpha.desktop;
+application/x-extension-shtml=zen-alpha.desktop;
+application/xhtml+xml=zen-alpha.desktop;
+application/x-extension-xhtml=zen-alpha.desktop;
+application/x-extension-xht=zen-alpha.desktop;
+application/msword=onlyoffice-desktopeditors.desktop;org.gnome.Evince.desktop;
+text/css=nvim.desktop;

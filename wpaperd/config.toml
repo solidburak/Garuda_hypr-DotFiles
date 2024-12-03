@@ -1,0 +1,9 @@
+[default]
+path = "/home/burak/Resimler/Walpaper/"
+duration = "1h"
+mode = "fit"
+queue-size = 50
+
+[eDP-1]
+path = "/home/burak/Resimler/Walpaper/"
+# path = "/run/media/burak/Elements/Live Wallpaper/LiveWallpaperPC.com-Wavy-Grass-1920x1080.mp4"

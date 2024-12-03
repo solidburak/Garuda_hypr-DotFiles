@@ -1,0 +1,7 @@
+2024/07/01-23:31:59.976 3d954 Reusing MANIFEST /home/burak/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/07/01-23:31:59.976 3d954 Recovering log #4
+2024/07/01-23:31:59.977 3d954 Reusing old log /home/burak/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2024/07/01-23:31:59.987 3d952 Level-0 table #8: started
+2024/07/01-23:31:59.990 3d952 Level-0 table #8: 470 bytes OK
+2024/07/01-23:31:59.995 3d952 Delete type=0 #4
+2024/07/01-23:31:59.995 3d952 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

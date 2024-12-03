@@ -1,0 +1,8 @@
+{
+    "jobs_tab_visibility": "shown",
+    "initial_working_directory": "~",
+    "global_theme": "alternate",
+    "editor_theme": "Ambiance",
+    "pdf_previewer": "none",
+    "posix_terminal_shell": "bash"
+}

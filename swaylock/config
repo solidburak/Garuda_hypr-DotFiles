@@ -1,0 +1,65 @@
+font=FiraSans
+
+layout-text-color=#eceff4
+
+time-effects
+
+# image=
+screenshots
+fade-in=0.75
+
+effect-blur=7x5
+effect-vignette=0.5:0.5
+# effect-greyscale
+# effect-pixelate
+
+clock
+timestr=%-H:%M:%S
+datestr=%a  %b %-d
+
+indicator
+indicator-radius=125
+indicator-thickness=7 
+indicator-caps-lock
+
+effect-blur=7x5
+effect-vignette=0.5:0.5
+
+# separator-color=880033 
+key-hl-color=880033
+
+
+ring-color=cf352eed
+# ring-clear-color=
+# ring-caps-lock-color=
+# ring-wrong-color=
+ring-ver-color=#ffc663b7
+
+
+line-color=00000000
+# line-clear-color=
+# line-caps-lock-color
+line-ver-color=#ffc663b7
+line-wrong-color=#d08770
+
+# line-uses-inside
+line-uses-ring
+
+inside-color=00000088
+# inside-clear-color=
+# inside-caps-lock-color=
+# inside-wrong-color=
+inside-ver-color=#ffc663b7
+
+text-color=#d8dee9
+# text-clear-color=
+# text-caps-lock=
+# text-ver-color=
+# text-wrong-color
+
+# bs-hl-color=
+caps-lock-key-hl-color=880033
+# caps-lock-bs-hl-color=
+# disable-caps-lock-text=
+# text-caps-lock-color=
+
