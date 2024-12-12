@@ -1,102 +1,95 @@
-{"level":30,"time":"2024-11-28T09:37:13.076Z","msg":"got fast localeOverride setting null"}
-{"level":30,"time":"2024-11-28T09:37:13.078Z","msg":"app.ready: hour cycle preference: UnknownPreference"}
-{"level":30,"time":"2024-11-28T09:37:13.078Z","msg":"app.ready: preferred system locales: en-US, en"}
-{"level":30,"time":"2024-11-28T09:37:13.081Z","msg":"locale: Supported locales: af-ZA, ar, az-AZ, bg-BG, bn-BD, bs-BA, ca, cs, da, de, el, en, es, et-EE, eu, fa-IR, fi, fr, ga-IE, gl-ES, gu-IN, he, hi-IN, hr-HR, hu, id, it, ja, ka-GE, kk-KZ, km-KH, kn-IN, ko, ky-KG, lt-LT, lv-LV, mk-MK, ml-IN, mr-IN, ms, my, nb, nl, pa-IN, pl, pt-BR, pt-PT, ro-RO, ru, sk-SK, sl-SI, sq-AL, sr, sv, sw, ta-IN, te-IN, th, tl-PH, tr, ug, uk-UA, ur, vi, yue, zh-CN, zh-HK, zh-Hant"}
-{"level":30,"time":"2024-11-28T09:37:13.081Z","msg":"locale: Preferred locales: en-US, en"}
-{"level":30,"time":"2024-11-28T09:37:13.081Z","msg":"locale: Locale Override: null"}
-{"level":30,"time":"2024-11-28T09:37:13.086Z","msg":"locale: Matched locale: en"}
-{"level":40,"time":"2024-11-28T09:37:13.181Z","msg":"intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.io/docs/getting-started/message-distribution"}
-{"level":30,"time":"2024-11-28T09:37:13.182Z","msg":"locale: Text info direction for en: ltr"}
-{"level":30,"time":"2024-11-28T09:37:13.184Z","msg":"getSQLKey: using legacy key"}
-{"level":30,"time":"2024-11-28T09:37:13.185Z","msg":"getSystemTraySetting got value DoNotUseSystemTray"}
-{"level":30,"time":"2024-11-28T09:37:13.185Z","msg":"getSystemTraySetting returning DoNotUseSystemTray"}
-{"level":30,"time":"2024-11-28T09:37:13.187Z","msg":"app ready"}
-{"level":30,"time":"2024-11-28T09:37:13.188Z","msg":"starting version 7.34.0"}
-{"level":30,"time":"2024-11-28T09:37:13.188Z","msg":"media access status [object Undefined] [object Undefined]"}
-{"level":30,"time":"2024-11-28T09:37:13.192Z","msg":"got fast theme-setting value system"}
-{"level":30,"time":"2024-11-28T09:37:13.212Z","msg":"got fast theme-setting value system"}
-{"level":30,"time":"2024-11-28T09:37:13.213Z","msg":"got fast spellcheck setting true"}
-{"level":30,"time":"2024-11-28T09:37:13.213Z","msg":"visibleOnAnyScreen(window): x=1062, y=57, width=851, height=1016"}
-{"level":30,"time":"2024-11-28T09:37:13.214Z","msg":"visibleOnAnyScreen(display #33): x=0, y=0, width=1920, height=1080"}
-{"level":30,"time":"2024-11-28T09:37:13.214Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":851,\"height\":1016,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"enableBlinkFeatures\":\"CSSPseudoDir,CSSLogical\",\"enablePreferredSizeMode\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":true,\"preload\":\"[REDACTED]/preload.wrapper.js\",\"backgroundThrottling\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":1062,\"y\":57}"}
-{"level":30,"time":"2024-11-28T09:37:13.313Z","msg":"spellcheck: user locales: [\"en-US\",\"en\"]"}
-{"level":30,"time":"2024-11-28T09:37:13.313Z","msg":"spellcheck: available spellchecker languages: [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
-{"level":30,"time":"2024-11-28T09:37:13.313Z","msg":"spellcheck: setting languages to: [\"en-US\",\"en\"]"}
-{"level":30,"time":"2024-11-28T09:37:13.410Z","msg":"MainSQL: updateSchema:\n  Current user_version: 1250;\n  Most recent db schema: 1250;\n  SQLite version: 3.46.1;\n  SQLCipher version: 4.6.1 community;\n  (deprecated) schema_version: 515;\n"}
-{"level":30,"time":"2024-11-28T09:37:14.151Z","msg":"got fast theme-setting value system"}
-{"level":30,"time":"2024-11-28T09:37:15.061Z","msg":"got fast spellcheck setting true"}
-{"level":30,"time":"2024-11-28T09:37:15.069Z","msg":"System tray service: created"}
-{"level":30,"time":"2024-11-28T09:37:15.069Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
-{"level":30,"time":"2024-11-28T09:37:15.069Z","msg":"System tray service: rendering no tray"}
-{"level":30,"time":"2024-11-28T09:37:15.070Z","msg":"Begin ensuring permissions"}
-{"level":30,"time":"2024-11-28T09:37:15.070Z","msg":"main window is ready-to-show"}
-{"level":30,"time":"2024-11-28T09:37:15.070Z","msg":"showing main window"}
-{"level":30,"time":"2024-11-28T09:37:15.079Z","msg":"System tray service: rendering no tray"}
-{"level":30,"time":"2024-11-28T09:37:15.093Z","msg":"Ensuring file permissions for 4 files"}
-{"level":30,"time":"2024-11-28T09:37:15.095Z","msg":"Finish ensuring permissions in 25ms"}
-{"level":30,"time":"2024-11-28T09:37:15.169Z","msg":"deleteAllBadges: deleted 0 files"}
-{"level":30,"time":"2024-11-28T09:37:15.226Z","msg":"MainSQL: removeKnownStickers: About to iterate through 219 stickers"}
-{"level":30,"time":"2024-11-28T09:37:15.232Z","msg":"MainSQL: removeKnownStickers: Done processing 219 stickers"}
-{"level":30,"time":"2024-11-28T09:37:15.233Z","msg":"deleteAllStickers: deleted 0 files"}
-{"level":30,"time":"2024-11-28T09:37:15.241Z","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 5 conversations"}
-{"level":30,"time":"2024-11-28T09:37:15.241Z","msg":"MainSQL: removeKnownDraftAttachments: Done processing 5 conversations"}
-{"level":30,"time":"2024-11-28T09:37:15.242Z","msg":"deleteAllDraftAttachments: deleted 0 files"}
-{"level":30,"time":"2024-11-28T09:37:15.258Z","msg":"cleanupOrphanedAttachments: found 133 attachments on disk"}
-{"level":30,"time":"2024-11-28T09:37:15.259Z","msg":"cleanupOrphanedAttachments: found 0 downloads on disk"}
-{"level":30,"time":"2024-11-28T09:37:15.260Z","msg":"MainSQL: getKnownConversationAttachments: About to iterate through 5"}
-{"level":30,"time":"2024-11-28T09:37:15.260Z","msg":"MainSQL: getKnownConversationAttachments: Done processing"}
-{"level":30,"time":"2024-11-28T09:37:15.261Z","msg":"cleanupOrphanedAttachments: found 3 conversation attachments (1 missing), 131 remain"}
-{"level":30,"time":"2024-11-28T09:37:15.261Z","msg":"cleanupOrphanedAttachments: found 0 downloads (0 missing), 0 remain"}
-{"level":30,"time":"2024-11-28T09:37:15.261Z","msg":"cleanupOrphanedAttachments: took 95ms"}
-{"level":30,"time":"2024-11-28T09:37:15.263Z","msg":"MainSQL: pageMessages(c2aa91124ff1e974): Starting iteration through 110 messages"}
-{"level":30,"time":"2024-11-28T09:37:15.329Z","msg":"MainSQL: finishPageMessages(c2aa91124ff1e974): reached the end after processing 110 messages"}
-{"level":30,"time":"2024-11-28T09:37:15.329Z","msg":"cleanupOrphanedAttachments: found 131 message attachments, (0 missing) 0 remain"}
-{"level":30,"time":"2024-11-28T09:37:15.329Z","msg":"deleteAll: deleted 0 files"}
-{"level":30,"time":"2024-11-28T09:37:15.329Z","msg":"cleanupOrphanedAttachments: found 0 downloads (0 missing) 0 remain"}
-{"level":30,"time":"2024-11-28T09:37:15.329Z","msg":"deleteAllDownloads: deleted 0 files"}
-{"level":30,"time":"2024-11-28T09:37:15.329Z","msg":"deleteOrphanedAttachments: took 68ms"}
-{"level":30,"time":"2024-11-28T09:37:15.405Z","msg":"Prevent display sleep service: allowing display sleep"}
-{"level":30,"time":"2024-11-28T09:37:15.406Z","msg":"Background throttling enabled because no call is active"}
-{"level":30,"time":"2024-11-28T09:37:15.779Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1043,\"height\":1016,\"x\":7,\"y\":57}"}
-{"level":30,"time":"2024-11-28T09:37:15.783Z","msg":"config/set: Saving ephemeral config to disk"}
-{"level":30,"time":"2024-11-28T09:37:15.791Z","msg":"config/set: Saved ephemeral config to disk"}
-{"level":30,"time":"2024-11-28T09:37:15.852Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:15.852Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:15.864Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:15.864Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:15.870Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:15.871Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:16.018Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:16.019Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:16.023Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:16.023Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:16.094Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:16.094Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:16.096Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
-{"level":30,"time":"2024-11-28T09:37:16.096Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
-{"level":30,"time":"2024-11-28T09:37:16.245Z","msg":"updater/start: Updates disabled - not starting new version checks"}
-{"level":30,"time":"2024-11-28T09:37:16.250Z","msg":"App loaded - time: 3065"}
-{"level":30,"time":"2024-11-28T09:37:16.250Z","msg":"SQL init - time: 243"}
-{"level":30,"time":"2024-11-28T09:37:16.250Z","msg":"Preload - time: 928"}
-{"level":30,"time":"2024-11-28T09:37:16.250Z","msg":"WebSocket connect - time: 671"}
-{"level":30,"time":"2024-11-28T09:37:16.250Z","msg":"Processed count: 20"}
-{"level":30,"time":"2024-11-28T09:37:16.251Z","msg":"Messages per second: 13.642564802182811"}
-{"level":30,"time":"2024-11-28T09:37:16.252Z","msg":"Top 10 queries by cumulative duration (ms) over last 2825ms during 'App Load': createOrUpdateItem: cumulative 41.88 | average: 3.49 | max: 8.18 | count: 12 ||| saveMessage: cumulative 41.14 | average: 5.88 | max: 9.18 | count: 7 ||| removeSyncTaskById: cumulative 23.45 | average: 2.93 | max: 3.52 | count: 8 ||| getAllKyberPreKeys: cumulative 22.72 | average: 22.72 | max: 22.72 | count: 1 ||| saveSyncTasks: cumulative 22.5 | average: 3.21 | max: 3.91 | count: 7 ||| removeUnprocessed: cumulative 16.9 | average: 3.38 | max: 3.89 | count: 5 ||| markAllCallHistoryReadInConversation: cumulative 16.46 | average: 2.35 | max: 7.31 | count: 7 ||| saveMessages: cumulative 15.34 | average: 7.67 | max: 8.44 | count: 2 ||| getKnownMessageAttachments: cumulative 14.59 | average: 14.59 | max: 14.59 | count: 1 ||| getUnreadByConversationAndMarkRead: cumulative 14.35 | average: 7.18 | max: 8.3 | count: 2; Total cumulative duration of all SQL queries during this epoch: 328.7ms"}
-{"level":40,"time":"2024-11-28T09:37:18.949Z","msg":"OptionalResourceService: loaded emoji-index-en.json from disk"}
-{"level":30,"time":"2024-11-28T09:37:57.261Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":851,\"height\":502,\"x\":1062,\"y\":57}"}
-{"level":30,"time":"2024-11-28T09:37:57.264Z","msg":"config/set: Saving ephemeral config to disk"}
-{"level":30,"time":"2024-11-28T09:37:57.272Z","msg":"config/set: Saved ephemeral config to disk"}
-{"level":30,"time":"2024-11-28T09:37:59.707Z","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
-{"level":30,"time":"2024-11-28T09:37:59.707Z","msg":"maybeRequestCloseConfirmation: Checking to see if close confirmation is needed"}
-{"level":30,"time":"2024-11-28T09:37:59.710Z","msg":"maybeRequestCloseConfirmation: Response received"}
-{"level":30,"time":"2024-11-28T09:37:59.713Z","msg":"System tray service: rendering no tray"}
-{"level":30,"time":"2024-11-28T09:37:59.713Z","msg":"requestShutdown: Requesting close of mainWindow..."}
-{"level":30,"time":"2024-11-28T09:37:59.726Z","msg":"requestShutdown: Response received"}
-{"level":30,"time":"2024-11-28T09:37:59.754Z","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false,\"hasEventBeenPrevented\":false,\"windowCount\":1,\"mainWindowExists\":true,\"mainWindowIsFullScreen\":false}"}
-{"level":30,"time":"2024-11-28T09:37:59.754Z","msg":"System tray service: markShouldQuit"}
-{"level":30,"time":"2024-11-28T09:37:59.754Z","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
-{"level":30,"time":"2024-11-28T09:37:59.757Z","msg":"main window closed event"}
-{"level":30,"time":"2024-11-28T09:37:59.757Z","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
-{"level":30,"time":"2024-11-28T09:37:59.757Z","msg":"System tray service: rendering no tray"}
-{"level":30,"time":"2024-11-28T09:37:59.757Z","msg":"will-quit event {\"hasEventBeenPrevented\":false,\"windowCount\":0,\"mainWindowExists\":false}"}
-{"level":30,"time":"2024-11-28T09:37:59.757Z","msg":"quit event {\"hasEventBeenPrevented\":false,\"windowCount\":0,\"mainWindowExists\":false}"}
+{"level":30,"time":"2024-12-12T05:06:12.045Z","msg":"got fast localeOverride setting null"}
+{"level":30,"time":"2024-12-12T05:06:12.049Z","msg":"app.ready: hour cycle preference: UnknownPreference"}
+{"level":30,"time":"2024-12-12T05:06:12.049Z","msg":"app.ready: preferred system locales: en-US, en"}
+{"level":30,"time":"2024-12-12T05:06:12.050Z","msg":"locale: Supported locales: af-ZA, ar, az-AZ, bg-BG, bn-BD, bs-BA, ca, cs, da, de, el, en, es, et-EE, eu, fa-IR, fi, fr, ga-IE, gl-ES, gu-IN, he, hi-IN, hr-HR, hu, id, it, ja, ka-GE, kk-KZ, km-KH, kn-IN, ko, ky-KG, lt-LT, lv-LV, mk-MK, ml-IN, mr-IN, ms, my, nb, nl, pa-IN, pl, pt-BR, pt-PT, ro-RO, ru, sk-SK, sl-SI, sq-AL, sr, sv, sw, ta-IN, te-IN, th, tl-PH, tr, ug, uk-UA, ur, vi, yue, zh-CN, zh-HK, zh-Hant"}
+{"level":30,"time":"2024-12-12T05:06:12.050Z","msg":"locale: Preferred locales: en-US, en"}
+{"level":30,"time":"2024-12-12T05:06:12.050Z","msg":"locale: Locale Override: null"}
+{"level":30,"time":"2024-12-12T05:06:12.057Z","msg":"locale: Matched locale: en"}
+{"level":40,"time":"2024-12-12T05:06:12.153Z","msg":"intl.onWarn [@formatjs/intl] \"defaultRichTextElements\" was specified but \"message\" was not pre-compiled. \nPlease consider using \"@formatjs/cli\" to pre-compile your messages for performance.\nFor more details see https://formatjs.io/docs/getting-started/message-distribution"}
+{"level":30,"time":"2024-12-12T05:06:12.154Z","msg":"locale: Text info direction for en: ltr"}
+{"level":30,"time":"2024-12-12T05:06:12.155Z","msg":"getSQLKey: using legacy key"}
+{"level":30,"time":"2024-12-12T05:06:12.156Z","msg":"getSystemTraySetting got value DoNotUseSystemTray"}
+{"level":30,"time":"2024-12-12T05:06:12.156Z","msg":"getSystemTraySetting returning DoNotUseSystemTray"}
+{"level":30,"time":"2024-12-12T05:06:12.158Z","msg":"app ready"}
+{"level":30,"time":"2024-12-12T05:06:12.158Z","msg":"starting version 7.35.1"}
+{"level":30,"time":"2024-12-12T05:06:12.158Z","msg":"media access status [object Undefined] [object Undefined]"}
+{"level":30,"time":"2024-12-12T05:06:12.162Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2024-12-12T05:06:12.180Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2024-12-12T05:06:12.180Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2024-12-12T05:06:12.181Z","msg":"visibleOnAnyScreen(window): x=1062, y=57, width=851, height=502"}
+{"level":30,"time":"2024-12-12T05:06:12.181Z","msg":"visibleOnAnyScreen(display #33): x=0, y=0, width=1920, height=1080"}
+{"level":30,"time":"2024-12-12T05:06:12.182Z","msg":"Initializing BrowserWindow config: {\"show\":false,\"width\":851,\"height\":502,\"minWidth\":300,\"minHeight\":200,\"autoHideMenuBar\":false,\"titleBarStyle\":\"default\",\"backgroundColor\":\"#121212\",\"webPreferences\":{\"devTools\":false,\"spellcheck\":true,\"enableBlinkFeatures\":\"CSSPseudoDir,CSSLogical\",\"enablePreferredSizeMode\":true,\"nodeIntegration\":false,\"nodeIntegrationInWorker\":false,\"sandbox\":false,\"contextIsolation\":true,\"preload\":\"[REDACTED]/preload.wrapper.js\",\"backgroundThrottling\":true,\"disableBlinkFeatures\":\"Accelerated2dCanvas,AcceleratedSmallCanvases\"},\"icon\":\"[REDACTED]/images/signal-logo-desktop-linux.png\",\"x\":1062,\"y\":57}"}
+{"level":30,"time":"2024-12-12T05:06:12.292Z","msg":"spellcheck: user locales: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2024-12-12T05:06:12.292Z","msg":"spellcheck: available spellchecker languages: [\"af\",\"bg\",\"ca\",\"cs\",\"cy\",\"da\",\"de\",\"de-DE\",\"el\",\"en\",\"en-AU\",\"en-CA\",\"en-GB\",\"en-GB-oxendict\",\"en-US\",\"es\",\"es-419\",\"es-AR\",\"es-ES\",\"es-MX\",\"es-US\",\"et\",\"fa\",\"fo\",\"fr\",\"fr-FR\",\"he\",\"hi\",\"hr\",\"hu\",\"hy\",\"id\",\"it\",\"it-IT\",\"ko\",\"lt\",\"lv\",\"nb\",\"nl\",\"pl\",\"pt\",\"pt-BR\",\"pt-PT\",\"ro\",\"ru\",\"sh\",\"sk\",\"sl\",\"sq\",\"sr\",\"sv\",\"ta\",\"tg\",\"tr\",\"uk\",\"vi\"]"}
+{"level":30,"time":"2024-12-12T05:06:12.292Z","msg":"spellcheck: setting languages to: [\"en-US\",\"en\"]"}
+{"level":30,"time":"2024-12-12T05:06:12.293Z","msg":"MainSQL: updateSchema:\n  Current user_version: 1250;\n  Most recent db schema: 1250;\n  SQLite version: 3.46.1;\n  SQLCipher version: 4.6.1 community;\n  (deprecated) schema_version: 515;\n"}
+{"level":30,"time":"2024-12-12T05:06:13.010Z","msg":"got fast theme-setting value system"}
+{"level":30,"time":"2024-12-12T05:06:13.924Z","msg":"got fast spellcheck setting true"}
+{"level":30,"time":"2024-12-12T05:06:13.932Z","msg":"System tray service: created"}
+{"level":30,"time":"2024-12-12T05:06:13.932Z","msg":"System tray service: updating main window. Previously, there was not a window, and now there is"}
+{"level":30,"time":"2024-12-12T05:06:13.932Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-12-12T05:06:13.932Z","msg":"Begin ensuring permissions"}
+{"level":30,"time":"2024-12-12T05:06:13.933Z","msg":"main window is ready-to-show"}
+{"level":30,"time":"2024-12-12T05:06:13.933Z","msg":"showing main window"}
+{"level":30,"time":"2024-12-12T05:06:13.968Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-12-12T05:06:13.988Z","msg":"Ensuring file permissions for 4 files"}
+{"level":30,"time":"2024-12-12T05:06:13.990Z","msg":"Finish ensuring permissions in 58ms"}
+{"level":30,"time":"2024-12-12T05:06:14.080Z","msg":"deleteAllBadges: deleted 0 files"}
+{"level":30,"time":"2024-12-12T05:06:14.130Z","msg":"MainSQL: removeKnownStickers: About to iterate through 219 stickers"}
+{"level":30,"time":"2024-12-12T05:06:14.136Z","msg":"MainSQL: removeKnownStickers: Done processing 219 stickers"}
+{"level":30,"time":"2024-12-12T05:06:14.137Z","msg":"deleteAllStickers: deleted 0 files"}
+{"level":30,"time":"2024-12-12T05:06:14.141Z","msg":"MainSQL: removeKnownDraftAttachments: About to iterate through 5 conversations"}
+{"level":30,"time":"2024-12-12T05:06:14.141Z","msg":"MainSQL: removeKnownDraftAttachments: Done processing 5 conversations"}
+{"level":30,"time":"2024-12-12T05:06:14.142Z","msg":"deleteAllDraftAttachments: deleted 0 files"}
+{"level":30,"time":"2024-12-12T05:06:14.156Z","msg":"cleanupOrphanedAttachments: found 161 attachments on disk"}
+{"level":30,"time":"2024-12-12T05:06:14.157Z","msg":"cleanupOrphanedAttachments: found 0 downloads on disk"}
+{"level":30,"time":"2024-12-12T05:06:14.157Z","msg":"MainSQL: getKnownConversationAttachments: About to iterate through 5"}
+{"level":30,"time":"2024-12-12T05:06:14.158Z","msg":"MainSQL: getKnownConversationAttachments: Done processing"}
+{"level":30,"time":"2024-12-12T05:06:14.158Z","msg":"cleanupOrphanedAttachments: found 3 conversation attachments (1 missing), 159 remain"}
+{"level":30,"time":"2024-12-12T05:06:14.158Z","msg":"cleanupOrphanedAttachments: found 0 downloads (0 missing), 0 remain"}
+{"level":30,"time":"2024-12-12T05:06:14.159Z","msg":"cleanupOrphanedAttachments: took 84ms"}
+{"level":30,"time":"2024-12-12T05:06:14.161Z","msg":"MainSQL: pageMessages(18c38a0d33f04aab): Starting iteration through 116 messages"}
+{"level":30,"time":"2024-12-12T05:06:14.223Z","msg":"MainSQL: finishPageMessages(18c38a0d33f04aab): reached the end after processing 116 messages"}
+{"level":30,"time":"2024-12-12T05:06:14.223Z","msg":"cleanupOrphanedAttachments: found 159 message attachments, (0 missing) 0 remain"}
+{"level":30,"time":"2024-12-12T05:06:14.223Z","msg":"deleteAll: deleted 0 files"}
+{"level":30,"time":"2024-12-12T05:06:14.223Z","msg":"cleanupOrphanedAttachments: found 0 downloads (0 missing) 0 remain"}
+{"level":30,"time":"2024-12-12T05:06:14.224Z","msg":"deleteAllDownloads: deleted 0 files"}
+{"level":30,"time":"2024-12-12T05:06:14.224Z","msg":"deleteOrphanedAttachments: took 65ms"}
+{"level":30,"time":"2024-12-12T05:06:14.344Z","msg":"Prevent display sleep service: allowing display sleep"}
+{"level":30,"time":"2024-12-12T05:06:14.345Z","msg":"Background throttling enabled because no call is active"}
+{"level":30,"time":"2024-12-12T05:06:14.682Z","msg":"Updating BrowserWindow config: %s {\"maximized\":false,\"autoHideMenuBar\":false,\"fullscreen\":false,\"width\":1041,\"height\":1015,\"x\":8,\"y\":57}"}
+{"level":30,"time":"2024-12-12T05:06:14.687Z","msg":"config/set: Saving ephemeral config to disk"}
+{"level":30,"time":"2024-12-12T05:06:14.696Z","msg":"config/set: Saved ephemeral config to disk"}
+{"level":30,"time":"2024-12-12T05:06:14.892Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
+{"level":30,"time":"2024-12-12T05:06:14.892Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
+{"level":30,"time":"2024-12-12T05:06:15.030Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
+{"level":30,"time":"2024-12-12T05:06:15.030Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
+{"level":30,"time":"2024-12-12T05:06:15.033Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
+{"level":30,"time":"2024-12-12T05:06:15.033Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
+{"level":30,"time":"2024-12-12T05:06:15.064Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
+{"level":30,"time":"2024-12-12T05:06:15.064Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
+{"level":30,"time":"2024-12-12T05:06:15.079Z","msg":"MainSQL: markAllCallHistoryRead: Found conversation [REDACTED]990"}
+{"level":30,"time":"2024-12-12T05:06:15.079Z","msg":"MainSQL: markAllCallHistoryRead: Marking calls before 1722798836548 read"}
+{"level":30,"time":"2024-12-12T05:06:15.202Z","msg":"updater/start: Updates disabled - not starting new version checks"}
+{"level":30,"time":"2024-12-12T05:06:15.206Z","msg":"App loaded - time: 3050"}
+{"level":30,"time":"2024-12-12T05:06:15.206Z","msg":"SQL init - time: 152"}
+{"level":30,"time":"2024-12-12T05:06:15.206Z","msg":"Preload - time: 946"}
+{"level":30,"time":"2024-12-12T05:06:15.206Z","msg":"WebSocket connect - time: 822"}
+{"level":30,"time":"2024-12-12T05:06:15.206Z","msg":"Processed count: 23"}
+{"level":30,"time":"2024-12-12T05:06:15.206Z","msg":"Messages per second: 17.940717628705148"}
+{"level":30,"time":"2024-12-12T05:06:15.207Z","msg":"Top 10 queries by cumulative duration (ms) over last 2899ms during 'App Load': createOrUpdateItem: cumulative 43.85 | average: 3.37 | max: 7.86 | count: 13 ||| saveMessage: cumulative 35.19 | average: 5.03 | max: 6.08 | count: 7 ||| saveMessages: cumulative 22.24 | average: 7.41 | max: 10.45 | count: 3 ||| saveSyncTasks: cumulative 21.18 | average: 3.03 | max: 3.59 | count: 7 ||| removeSyncTaskById: cumulative 20.68 | average: 2.95 | max: 3.05 | count: 7 ||| getAllKyberPreKeys: cumulative 19.71 | average: 19.71 | max: 19.71 | count: 1 ||| commitDecryptResult: cumulative 16.61 | average: 4.15 | max: 6 | count: 4 ||| removeUnprocessed: cumulative 14.1 | average: 3.52 | max: 3.98 | count: 4 ||| getKnownMessageAttachments: cumulative 12.89 | average: 12.89 | max: 12.89 | count: 1 ||| removeKnownStickers: cumulative 11.2 | average: 11.2 | max: 11.2 | count: 1; Total cumulative duration of all SQL queries during this epoch: 323.61ms"}
+{"level":40,"time":"2024-12-12T05:06:17.396Z","msg":"OptionalResourceService: loaded emoji-index-en.json from disk"}
+{"level":30,"time":"2024-12-12T05:06:42.622Z","msg":"close event {\"readyForShutdown\":false,\"shouldQuit\":false}"}
+{"level":30,"time":"2024-12-12T05:06:42.623Z","msg":"maybeRequestCloseConfirmation: Checking to see if close confirmation is needed"}
+{"level":30,"time":"2024-12-12T05:06:42.627Z","msg":"maybeRequestCloseConfirmation: Response received"}
+{"level":30,"time":"2024-12-12T05:06:42.630Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-12-12T05:06:42.630Z","msg":"requestShutdown: Requesting close of mainWindow..."}
+{"level":30,"time":"2024-12-12T05:06:42.667Z","msg":"requestShutdown: Response received"}
+{"level":30,"time":"2024-12-12T05:06:42.718Z","msg":"before-quit event {\"readyForShutdown\":true,\"shouldQuit\":false,\"hasEventBeenPrevented\":false,\"windowCount\":1,\"mainWindowExists\":true,\"mainWindowIsFullScreen\":false}"}
+{"level":30,"time":"2024-12-12T05:06:42.718Z","msg":"System tray service: markShouldQuit"}
+{"level":30,"time":"2024-12-12T05:06:42.719Z","msg":"close event {\"readyForShutdown\":true,\"shouldQuit\":true}"}
+{"level":30,"time":"2024-12-12T05:06:42.726Z","msg":"main window closed event"}
+{"level":30,"time":"2024-12-12T05:06:42.727Z","msg":"System tray service: updating main window. Previously, there was a window, and now there is not"}
+{"level":30,"time":"2024-12-12T05:06:42.727Z","msg":"System tray service: rendering no tray"}
+{"level":30,"time":"2024-12-12T05:06:42.727Z","msg":"will-quit event {\"hasEventBeenPrevented\":false,\"windowCount\":0,\"mainWindowExists\":false}"}
+{"level":30,"time":"2024-12-12T05:06:42.727Z","msg":"quit event {\"hasEventBeenPrevented\":false,\"windowCount\":0,\"mainWindowExists\":false}"}
