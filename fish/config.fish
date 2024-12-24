@@ -168,7 +168,7 @@ alias rip 'expac --timefmt="%Y-%m-%d %T" "%l\t%n %v" | sort | tail -200 | nl'
 
 # User additions
 alias tmux 'tmux -f ~/.config/tmux/tmux.conf'
-alias clear 'clear ; fastfetch'
+alias clear 'clear ; fastfetch --config neofetch.jsonc'
 
 
 ## Run fastfetch if session is interactive

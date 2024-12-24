@@ -1,3 +1,3 @@
-2024/12/18-14:22:56.080 500d1 Reusing MANIFEST /home/burak/.config/Signal/Local Storage/leveldb/MANIFEST-000001
-2024/12/18-14:22:56.103 500d1 Recovering log #3
-2024/12/18-14:22:56.126 500d1 Reusing old log /home/burak/.config/Signal/Local Storage/leveldb/000003.log 
+2024/12/21-14:08:48.864 fd63 Reusing MANIFEST /home/burak/.config/Signal/Local Storage/leveldb/MANIFEST-000001
+2024/12/21-14:08:48.913 fd63 Recovering log #3
+2024/12/21-14:08:48.915 fd63 Reusing old log /home/burak/.config/Signal/Local Storage/leveldb/000003.log 
